@@ -1,7 +1,7 @@
 
 # First-App - Angular Tutorial Implementation
 
-This repository is a concise implementation of the official Angular tutorial [First-App]('https://angular.io/tutorial/first-app') It covers essential Angular features like components, interfaces, property binding, dynamic values, ngFor, routing, forms, search, and HTTP requests. It serves as a practical reference for beginners and developers looking to understand these concepts.
+This repository is a concise implementation of the official Angular tutorial [First-App](https://angular.io/tutorial/first-app) It covers essential Angular features like components, interfaces, property binding, dynamic values, ngFor, routing, forms, search, and HTTP requests. It serves as a practical reference for beginners and developers looking to understand these concepts.
 ## Features
 
 - Component and Interface
@@ -15,7 +15,7 @@ This repository is a concise implementation of the official Angular tutorial [Fi
 
 ## Running App
 
-To run this app, run the following command. Before start using Angular, you must to [install node js]('https://nodejs.org/en') in your machine.
+To run this app, run the following command. Before start using Angular, you must to [install node js](https://nodejs.org/en) in your machine.
 
 #### Install Angular CLI
 ```bash
